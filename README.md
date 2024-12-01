@@ -41,4 +41,4 @@ How to Contribute:
 
 ## License
 
-This project is licensed under the [Creative Commons Attribution 4.0 International License] (./LICENSE). Contributions must comply with this license.
+This project is licensed under the [Creative Commons Attribution 4.0 International License](./LICENSE) . Contributions must comply with this license.
