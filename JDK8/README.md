@@ -29,7 +29,7 @@ The features in Java 8 were developed under JDK Enhancement Proposals (JEPs), in
 
 ### Core Libraries Enhancements
 
-- **Streams API**
+- **[Streams API](Streams%20API.md)**
 
   - Provided a powerful new way to process sequences of elements from collections or other data sources.
   - Supported functional-style operations such as filtering, mapping, and reducing.
@@ -69,4 +69,3 @@ The features in Java 8 were developed under JDK Enhancement Proposals (JEPs), in
 
   - Oracle committed to providing public updates of Java SE 8 indefinitely for personal users.
 
----
